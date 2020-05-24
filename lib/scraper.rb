@@ -27,6 +27,9 @@ class Scraper
   def get_courses
     slef.get_page.css(".post")
   end
+  
+  def make_courses
+    
 
   
  
